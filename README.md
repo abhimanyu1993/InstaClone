@@ -1,8 +1,8 @@
 # InstaClone
 An instagram clone built using React Native
 
-<br/>
-![screenshot](https://github.com/abhimanyu1993/InstaClone/blob/master/Screenshot%20from%202018-11-06%2015-18-22.png)
+
+![Screenshot](https://github.com/abhimanyu1993/InstaClone/blob/master/Screenshot%20from%202018-11-06%2015-18-22.png)
 
 ## Get Started
 
