@@ -2,7 +2,7 @@
 An instagram clone built using React Native
 
 <br/>
-
+![screenshot](./Screenshot from 2018-11-06 15-18-22.png.gif)
 
 ## Get Started
 
