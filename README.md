@@ -1,6 +1,5 @@
 # InstaClone
 An instagram clone built using React Native
-# InstaClone
 
 <br/>
 
